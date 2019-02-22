@@ -6,7 +6,7 @@ npm init --yes
 3.npm注册（首次）
 npm adduser
 
-4.npm publish
+4.npm publish(提交前先提交代码)
 
 (5.登录npm login)
 
