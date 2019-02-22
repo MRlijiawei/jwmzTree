@@ -13,7 +13,7 @@ npm adduser
 (6.验证是否登录npm who am i)
 
 7.更新npm version patch
-npm push .
+npm publish
 
 大型node插件目录结构
 .
