@@ -1,6 +1,6 @@
 {
   "name": "jwmz-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm init --yes",
   "main": "index.js",
   "scripts": {
